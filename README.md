@@ -66,3 +66,5 @@ flutter run
 
 ## Video example
 
+https://github.com/HarumiaStar/flutter_simple_app/assets/74824314/2c1b999d-d15d-4b00-9169-5f6517eeb46f
+
